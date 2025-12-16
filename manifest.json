@@ -1,0 +1,23 @@
+{
+  "name": "FusionVersionSync",
+  "id": "williamscustomcreations.fusionversionsync",
+  "description": "Sync a user parameter with the active file's cloud version number.",
+  "version": "1.0.0",
+  "author": "Rob Williams",
+  "company": "Williams Custom Creations",
+  "supportedOS": [
+    "Windows",
+    "MacOS"
+  ],
+  "previewImage": "",
+  "language": "Python",
+  "runtime": "3.9",
+  "main": "FusionVersionSync.py",
+  "startup": "true",
+  "ui": {
+    "workspaces": ["FusionSolidEnvironment"],
+    "toolbarPanels": [],
+    "commandDefinitions": [],
+    "resources": []
+  }
+}
